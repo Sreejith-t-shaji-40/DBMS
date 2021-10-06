@@ -32,4 +32,4 @@ my_collection.insert_many(patient_records)
 
 print("DATA")
 for item in my_collection.find():
-        pprint(item
+        pprint(item)
